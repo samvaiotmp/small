@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main2()
 {
     auto a = add(3,4);
     cout << "3 + 4 is " << a;
