@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main4()
 {
     string word1, word2;
     cout << "Please enter word 1 : ";
